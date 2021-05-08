@@ -1,0 +1,17 @@
+# O Podręczniku
+Ten podręcznik będzie dotyczył Nowoczesnego C++. Nie będzie to to samo co ["Język C++"](https://www.wattpad.com/63954755-język-c%2B%2B), zatem:
+- będzie kontynuowany do samego końca (z prawdopodobieństwem 19/20)
+- będzie bardziej zorganizowany (tzn.: będzie zachowana odpowiednia kolejność lekcji, najpierw podstawy, potem rzeczy trudniejsze, a także będzie podzielony na moduły, które z kolei będą podzielone na rozdziały,
+a te na lekcje)
+- będzie tworzony przez osobę początkującą i zna się na rzeczy
+
+Moduły będą podzielone według paradygmatów programowania wykorzystywanych w C++. Paradygmat programowania to sposób tworzenia programu. Jest ich multum, ale C++ nie umożliwia korzystania ze wszystkich. (Tak, jak każdy inny język).
+
+Działy natomiast podzielę wedle różnych zagadnień (na przykład zmienne lub funkcje). W każdym dziale będzie lekcja z zadaniami i poddział omawijący jakąś funkcjonalność z biblioteki standardowej, niekoniecznie związaną z treścią działu.
+Format nazwy lekcji: `/<moduł>.<dział>.<lekcja>/`; Prykład: `Programowanie proceduralne.Funkcje.Argumenty opcjonalne`.
+
+Na końcu każdego działu i modułu będzie test. Nie przechodźcie do następnego dopóki nie uzyskacie odpowiednio albo 75% albo więcej i albo 90% albo więcej!
+
+Kod zamieszczany będzie w zrzutach ekranu z powodu nieobsługiwania przez Wattpada wstawek z kodem.
+
+Do zobaczenia wkrótce!
