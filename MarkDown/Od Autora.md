@@ -1,0 +1,8 @@
+# O Autorze
+Dziękuję drodzy czytelnicy za chcęć przeczytania tego podręcznika!
+
+Przepraszam za styl, jakim go napisałem, ale to moja pierwsza książka. Opinie dotyczące stylu czy łatwości w zrozumieniu treści przedstawionych w książce są mile widziane.
+
+Ten podręcznik dostępny jest w różnych formatach. Ich lista znajduje się w pliku [README.md](https://github.com/ankiedos/Podrecznik-do-nauki-Nowoczesnego-Cpp)
+
+Życzę udanej lektury i sukcesów w branży informatycznej!
