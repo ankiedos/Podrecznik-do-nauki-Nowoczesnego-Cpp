@@ -8,3 +8,5 @@ Dostępne formaty to:
 - [ ] Plain Old Documentation
 - [ ] RDoc
 - [ ] HTML
+- [ ] Roff
+- [ ] QuickBook
