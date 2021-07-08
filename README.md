@@ -1,11 +1,12 @@
-# Podrecznik do nauki Nowoczesnego C++
+# Podręcznik do nauki Nowoczesnego C++
 To jest estetyczniejsza wersja mojego podręcznika dostępnego na platformie Wattpad. Link do niego znajduje się w opisie tego repozytorium.
 Na Wattpadzie nie ma możliwości wstawienia fragmentów kodu w ramkę, ze specjalną czcionką i podświetlaniem składni, dlatego też postanowiłem tworzyć równolegle kilka wersji.
 Dostępne formaty to:
-- [ ] Markdown
+- [x] Markdown
 - [ ] reStructuredText
 - [ ] PDF (LaTeX)
 - [ ] Plain Old Documentation
 - [ ] RDoc
-- [ ] Plain Text
 - [ ] HTML
+- [ ] Roff
+- [ ] QuickBook
