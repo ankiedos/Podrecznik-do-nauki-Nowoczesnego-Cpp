@@ -10,3 +10,6 @@ Dostępne formaty to:
 - [ ] HTML
 - [ ] Roff
 - [ ] QuickBook
+
+# PRZERWA
+Podręcznik tymczasowo niekontynuowany
